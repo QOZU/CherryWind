@@ -1,2 +1,1 @@
-# CherryWind
-PulseSync RealTime Event Fusion Accelerator with ArtificiallyIntelligent architecture featuring SelfHealingArchitecture capabilities providing enterprise-grade CherryWind solutions
+.
